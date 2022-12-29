@@ -1,2 +1,2 @@
-# porfolio
-A GEOARGEUOS portfolio website, made with Jekyll
+# portfolio
+My portfolio. Hopefully i actually finished it...
